@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7590" started-at="2017-06-17T11:22:24Z" finished-at="2017-06-17T11:22:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7590" started-at="2017-06-17T11:22:24Z" finished-at="2017-06-17T11:22:32Z">
+      <class name="com.block.building.floor.wing.dataproviderOne.TestOne">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="593" started-at="2017-06-17T16:52:24Z" finished-at="2017-06-17T16:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="257" started-at="2017-06-17T16:52:25Z" finished-at="2017-06-17T16:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="413" started-at="2017-06-17T16:52:25Z" finished-at="2017-06-17T16:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="234" started-at="2017-06-17T16:52:26Z" finished-at="2017-06-17T16:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="515" started-at="2017-06-17T16:52:26Z" finished-at="2017-06-17T16:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="584" started-at="2017-06-17T16:52:26Z" finished-at="2017-06-17T16:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="639" started-at="2017-06-17T16:52:27Z" finished-at="2017-06-17T16:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="257" started-at="2017-06-17T16:52:28Z" finished-at="2017-06-17T16:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="444" started-at="2017-06-17T16:52:28Z" finished-at="2017-06-17T16:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="405" started-at="2017-06-17T16:52:28Z" finished-at="2017-06-17T16:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="218" started-at="2017-06-17T16:52:29Z" finished-at="2017-06-17T16:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="343" started-at="2017-06-17T16:52:29Z" finished-at="2017-06-17T16:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="234" started-at="2017-06-17T16:52:29Z" finished-at="2017-06-17T16:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="351" started-at="2017-06-17T16:52:30Z" finished-at="2017-06-17T16:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="273" started-at="2017-06-17T16:52:30Z" finished-at="2017-06-17T16:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="250" started-at="2017-06-17T16:52:30Z" finished-at="2017-06-17T16:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="241" started-at="2017-06-17T16:52:30Z" finished-at="2017-06-17T16:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="303" started-at="2017-06-17T16:52:31Z" finished-at="2017-06-17T16:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="273" started-at="2017-06-17T16:52:31Z" finished-at="2017-06-17T16:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="run" duration-ms="257" started-at="2017-06-17T16:52:31Z" finished-at="2017-06-17T16:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="testdashboard()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="testdashboard" duration-ms="46" started-at="2017-06-17T16:52:32Z" finished-at="2017-06-17T16:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdashboard -->
+        <test-method status="PASS" signature="testdashboard78()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="testdashboard78" duration-ms="70" started-at="2017-06-17T16:52:32Z" finished-at="2017-06-17T16:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdashboard78 -->
+        <test-method status="PASS" signature="testp1()[pri:0, instance:com.block.building.floor.wing.dataproviderOne.TestOne@1a0cee9]" name="testp1" duration-ms="211" started-at="2017-06-17T16:52:32Z" finished-at="2017-06-17T16:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testp1 -->
+      </class> <!-- com.block.building.floor.wing.dataproviderOne.TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
